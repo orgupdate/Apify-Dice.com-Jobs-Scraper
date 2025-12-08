@@ -6,7 +6,7 @@ The most efficient way to extract job listings directly from Dice Jobs search re
 
 ## 📖 Overview
 
-The **Dice Jobs Scraper** is a powerful data extraction tool designed to aggregate job listings from the Dice Jobs search engine. Since Dice aggregates listings from Glassdoor, LinkedIn, ZipRecruiter, and direct company career pages, this actor serves as a "One-Stop Shop" for global employment data.
+The **Dice Jobs Scraper** is a powerful data extraction tool designed to aggregate job listings from the Dice Jobs search engine.
 
 Whether you're building a job board, analyzing labor market trends, or automating lead generation for recruitment, this actor delivers structured, clean data in real-time.
 
